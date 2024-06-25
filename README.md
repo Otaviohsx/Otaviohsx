@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem Vindo ao meu Perfil
 
-<!--
-**Otaviohsx/Otaviohsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Otavio**
 
-Here are some ideas to get you started:
+* O que está fazendo? (p5js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Sou aluno da matéria "tecnologia e inovação" da rede estadual de ensino de São Paulo.
+* Estou aprendendo em um curso com base na linguagemjavascript na biblioteca p5js, fornecido pela plataforma AluraStart.
+* utilizo esse espaço para organizção e compartilhamento dos projetos desenvolvidos em sala de aula
+
+### Meu contato :💻
+
+0001086268647sp@al.educacao.sp.gov.br
